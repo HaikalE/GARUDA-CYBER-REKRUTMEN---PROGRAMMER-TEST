@@ -1,0 +1,6 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MontserratRomanBold.ttf"); font-family : "Montserrat"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MontserratRomanRegular.ttf"); font-family : "Montserrat"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsBold.ttf"); font-family : "Poppins"; font-weight : 700;  }
