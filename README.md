@@ -22,7 +22,7 @@ Jalankan perintah npm install untuk mengunduh semua dependensi yang diperlukan.
 Setelah selesai, jalankan perintah node index.js untuk menjalankan server.
 Database:
 
-Gunakan database MySQL atau MongoDB untuk menyimpan data pengguna, transaksi, dan informasi voucher. Pastikan untuk mengkonfigurasi aplikasi server untuk terhubung ke database yang tepat.
+Gunakan database MySQL yang tersedia untuk menyimpan informasi voucher. Pastikan untuk mengkonfigurasi aplikasi server untuk terhubung ke database yang tepat.
 
 Setelah mengikuti langkah-langkah di atas, Anda dapat mengakses aplikasi e-commerce melalui browser dengan mengunjungi http://localhost:3000 (atau port lain jika disesuaikan) untuk sisi klien (client side) dan http://localhost:5000 (atau port lain jika disesuaikan) untuk sisi server (server side).
 
